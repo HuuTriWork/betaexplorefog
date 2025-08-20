@@ -7,7 +7,7 @@ echo      Rise of Kingdoms Bot - Start
 echo ======================================
 echo.
 
-REM Kiểm tra Python
+REM 
 python --version >nul 2>&1
 if errorlevel 1 (
     echo [❌] Python chưa được cài đặt hoặc chưa có trong PATH.
@@ -51,3 +51,4 @@ python main.py
 echo.
 echo [⚠] Kết thúc !
 pause
+
