@@ -28,6 +28,7 @@
 - Chọn thiết bị rồi mới chạy được
 - Thay ảnh trại trinh sát nếu khác ở folder data ( 1.png, 2.png, 3.png )
 - Sử dụng ngôn ngữ english
-- Độ phân giải 960 * 540 
+- Độ phân giải 960 * 540
+- Chạy start.bat để mở tool
 
 
