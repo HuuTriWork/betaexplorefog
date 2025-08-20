@@ -18,11 +18,11 @@ if errorlevel 1 (
 echo [✔] Python đã được phát hiện.
 echo.
 
-REM Tạo hiệu ứng loading khi cài
+REM 
 echo [🔄] Đang cài/ cập nhật thư viện cần thiết...
 echo.
 
-REM Chạy cài đặt trong background
+REM 
 start /b cmd /c "python -m pip install --upgrade pip && python -m pip install --upgrade opencv-python PyQt5 > install.log 2>&1" 
 
 set "spinner=|/-\"
@@ -51,4 +51,5 @@ python main.py
 echo.
 echo [⚠] Kết thúc !
 pause
+
 
