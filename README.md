@@ -2,7 +2,7 @@
 
 ## 🔔 Update
 
-- 20/8/2025
+- Ngừng update
 
 ## 🖥️ Tính năng chính
 
