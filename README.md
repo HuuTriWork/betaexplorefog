@@ -1,8 +1,8 @@
 # Auto Explore Fog Multi-Emulator Rise Of Kingdoms 
 
-## 🔔 Update
+## 🔔 Bản mới
 
-- Ngừng update
+- [Link](https://github.com/HuuTriWork/tester)
 
 ## 🖥️ Tính năng chính
 
